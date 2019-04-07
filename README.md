@@ -1,4 +1,4 @@
-# Webbpack + Pug + Sass
+# Webpack + Pug + Sass
 
 ## Summary
 
